@@ -2,11 +2,14 @@
 //These represent the values of cards, except for Aces 
 Array of ints = [2, 3, 4, 5, 6, 7, 8, 9, 10];
 //These are the types of cards
-Array of Strings = ['clubs', 'hearts', 'spades', 'clovers'];
+Array of Strings = ['clubs', 'hearts', 'spades', 'diamonds'];
 //This represents face cards
 Array of Strings = ['jack', 'queen', 'king'];
 //This represents an ace
 Array of ints  = [1, 11];
+
+
+https://www.youtube.com/watch?v=GeEbs9-VLp0 study that to figure out how to model deck of cards
 
 player_hand = [];
 dealer_hand = [];
